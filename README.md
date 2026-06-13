@@ -1,2 +1,7 @@
-# security-portfolio
-Aspiring SOC Analyst documenting phishing investigations, OSINT research, and cybersecurity projects.
+# Security Portfolio
+
+This repository contains my cybersecurity learning projects and phishing investigation case reports.
+
+## Cases
+
+- [Fake Min Læge phishing investigation](cases/phishing-min-laege.md)
